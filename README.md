@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Subodh Uniyal</h1>
-<h3 align="center">An aspiring Data Scientist from India</h3>
+<h3 align="center">An AI Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subodh7976&label=Profile%20views&color=0e75b6&style=flat" alt="subodh7976" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subodh7976" alt="subodh7976" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs, ExpressJs, PEFTLLM Tuning**
+- 🌱 I’m currently learning **ReactJs, MLOps**
 
 - 📫 How to reach me **s.subodh7976@gmail.com**
 
